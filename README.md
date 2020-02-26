@@ -4,7 +4,8 @@
 ## Install
 
 ```bash
-npm i
+sudo apt-get update
+npm install
 ```
 
 ## Usage
